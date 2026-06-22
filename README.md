@@ -22,7 +22,6 @@ relationship.
 - WiFiS3
 - NTPClient
 - ArduinoMqttClient
-- ThingSpeak
 
 ## Output
 - Real-time LCD display
